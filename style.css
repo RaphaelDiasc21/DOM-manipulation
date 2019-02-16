@@ -1,0 +1,29 @@
+ul li{
+    list-style: none;
+}
+.container{
+    margin: 5%;
+}
+
+form{
+    padding: 15px;
+
+}
+form input{
+    width:50%;
+    border-radius:5px;
+    margin-top: 15px;
+    border:1px solid gray;
+}
+form button{
+    border-radius: 5px;
+    background-color: cornflowerblue;
+    color:white;
+    font-weight: 700;
+    margin-top: 15px;
+    border:none;
+}
+.container ul{
+    font-weight: 700;
+    border: 1px solid gray;
+}
